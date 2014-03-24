@@ -1,7 +1,7 @@
 oh-my-dogesh
 ============
 
-Doge-themed plugin for oh-my-zsh
+![Such plug-in     Very zsh      Many commandz    Wow](http://url/to/img.png)
 
 ##Installation
 1. Run ```git clone https://github.com/keithhamilton/oh-my-dogesh ~/.oh-my-zsh/custom/plugins/```
