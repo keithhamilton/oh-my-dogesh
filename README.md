@@ -1,7 +1,7 @@
 oh-my-dogesh
 ============
 
-![Such plug-in     Very zsh      Many commandz    Wow](http://url/to/img.png)
+![Such plug-in     Very zsh      Many commandz    Wow](http://i.imgur.com/KUqeGTJ.jpg)
 
 ##Installation
 1. Run ```git clone https://github.com/keithhamilton/oh-my-dogesh ~/.oh-my-zsh/custom/plugins/```
